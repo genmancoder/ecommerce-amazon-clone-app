@@ -54,7 +54,7 @@
     display: flex;
     align-items: center;
 }
-.header__basketCount{
+.header__productCount{
     margin-left: 10px;
     margin-right: 10px;
 }

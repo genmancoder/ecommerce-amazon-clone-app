@@ -1,0 +1,27 @@
+.navlinks{
+    background-color: #232f3e;
+    height: 39px;
+    color: white;
+}
+.navlinks__outer{
+    width: 70%;
+    margin: auto;
+    padding: 6px;    
+}
+.navlinks__outer a{
+    color: whitesmoke;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 4px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: 1px solid #232f3e;
+}
+
+.navlinks__outer a:hover{
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+.navlinks__inner{
+    margin-top: 3px;
+}
